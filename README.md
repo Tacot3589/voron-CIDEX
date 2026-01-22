@@ -58,6 +58,6 @@
 
 ###
 
-<p align="left">Big shoutout to "Made with Layers (Thomas Sanladerer)", "The Next Laye", "3DJake", and for their work, which inspired me to dive into this rabbit hole.<br><br>PS. Also big thanks to my brother for late night tech-talks aboud 3D printers and robotics...</p>
+<p align="left">Big shoutout to "Made with Layers (Thomas Sanladerer)", "The Next Layer", "3DJake", and for their work, which inspired me to dive into this rabbit hole.<br><br>PS. Also big thanks to my brother for late night tech-talks aboud 3D printers and robotics...</p>
 
 ###
