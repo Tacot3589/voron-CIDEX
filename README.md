@@ -15,9 +15,9 @@
 </div>
 
 <div align="center">
-  <img height="150" src="https://github.com/Tacot3589/voron-CIDEX/blob/main/media/PCB.png"  />
-  <img height="150" src="https://github.com/Tacot3589/voron-CIDEX/blob/main/media/IMG_20260122_222212.jpg"  />
-  <img height="150" src="https://github.com/Tacot3589/voron-CIDEX/blob/main/media/evangelion.png"  />
+  <img height="250" src="https://github.com/Tacot3589/voron-CIDEX/blob/main/media/PCB.png"  />
+  <img height="250" src="https://github.com/Tacot3589/voron-CIDEX/blob/main/media/IMG_20260122_222212.jpg"  />
+  <img height="250" src="https://github.com/Tacot3589/voron-CIDEX/blob/main/media/evangelion.png"  />
 </div>
 
 ###
